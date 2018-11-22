@@ -265,3 +265,5 @@ while running:
 
 #close pygame window
 pygame.quit()
+
+#credits to ashivers
